@@ -1,0 +1,167 @@
+brand:
+official_name: Shield by Guardian
+short_name: Shield
+website: https://shielddc.com
+
+company:
+type: Specialized Data Center Services Company
+headquarters: United States
+geographic_coverage: North America
+
+positioning:
+mission: >
+Protect mission critical liquid cooling infrastructure through specialized
+fluid management, technical expertise, and operational excellence.
+
+vision: >
+Become North America's most trusted partner for liquid cooling lifecycle
+services.
+
+positioning_statement: >
+Shield by Guardian delivers specialized services that protect the health,
+reliability, and performance of liquid cooled data center infrastructure
+throughout its entire operational lifecycle.
+
+core_message:
+primary: >
+The trusted partner for liquid cooling infrastructure services.
+
+secondary:
+- Mission critical execution.
+- Data center native expertise.
+- Complete coolant lifecycle management.
+- Science driven fluid testing.
+- Nationwide field service capabilities.
+
+brand_voice:
+tone:
+- Technical
+- Professional
+- Precise
+- Educational
+- Confident
+- Practical
+
+writing_style:
+- Use factual statements.
+- Avoid exaggerated marketing language.
+- Explain complex concepts clearly.
+- Prioritize technical accuracy.
+- Support claims with industry standards whenever possible.
+
+preferred_phrases:
+
+* Liquid Cooling Infrastructure
+* Coolant Lifecycle Management
+* Mission Critical Facilities
+* Fluid Health
+* Commissioning and Validation
+* Preventive Maintenance
+* Data Center Services
+* Field Service Engineers
+* Accredited Laboratory Analysis
+* Scientific Fluid Testing
+* Infrastructure Reliability
+* Thermal Performance
+* Operational Continuity
+* Closed Loop Cooling Systems
+* AI Ready Infrastructure
+
+avoid_phrases:
+
+* Cooling vendor
+* Chemical supplier
+* Water treatment company
+* HVAC contractor
+* Plumbing services
+* Generic maintenance company
+* One size fits all solution
+* Revolutionary
+* Best in the world
+* Guaranteed performance
+* Maintenance free
+
+service_categories:
+
+* Commissioning and Validation
+* Leak Detection
+* Fluid Testing
+* Maintenance Services
+* Fluid Management and Remediation
+* Decommissioning
+* End of Life Services
+
+industry_focus:
+
+* AI Data Centers
+* Enterprise Data Centers
+* Hyperscale Facilities
+* Colocation Providers
+* Edge Data Centers
+* High Performance Computing
+* Mission Critical Infrastructure
+
+technical_principles:
+
+* Safety First
+* Technical Accuracy
+* Preventive Maintenance
+* Predictive Analysis
+* Operational Excellence
+* Regulatory Compliance
+* Scientific Testing
+* Complete Documentation
+
+brand_differentiators:
+
+* Data center specialists.
+* Complete coolant lifecycle expertise.
+* Certified field technicians.
+* Accredited laboratory testing.
+* Nationwide service coverage.
+* Vendor neutral approach.
+* Structured maintenance methodology.
+* Detailed documentation and reporting.
+
+keywords:
+primary:
+- Liquid Cooling
+- Coolant Management
+- Fluid Testing
+- Data Center Maintenance
+- Commissioning
+- Leak Detection
+
+secondary:
+- CDU Maintenance
+- Coolant Sampling
+- Glycol Analysis
+- ASTM Testing
+- Corrosion Monitoring
+- Thermal Management
+- AI Infrastructure
+- Mission Critical Operations
+
+communication_rules:
+always:
+- Refer to the company as Shield by Guardian on first mention.
+- Use Shield on subsequent references.
+- Emphasize technical expertise over marketing language.
+- Describe services using precise engineering terminology.
+- Focus on reliability, safety, and operational continuity.
+
+never:
+- Present Shield as a coolant manufacturer.
+- Describe Shield as a chemical supplier.
+- Compare directly with OEMs.
+- Claim maintenance eliminates all failures.
+- Use unsupported superlatives.
+
+seo:
+brand_name: Shield by Guardian
+primary_domain: shielddc.com
+primary_topic: Liquid Cooling Infrastructure Services
+knowledge_type: Technical Services
+
+last_updated: 2026-06
+version: 1.0

@@ -1,0 +1,217 @@
+services:
+
+commissioning_validation:
+name: Commissioning and Validation
+category: Lifecycle Services
+description: >
+Validation and commissioning services for liquid cooling infrastructure,
+ensuring systems are installed, tested, documented, and ready for
+production operation.
+
+```
+capabilities:
+  - System startup support
+  - Operational verification
+  - Functional testing
+  - Documentation review
+  - Performance validation
+  - Baseline fluid sampling
+
+benefits:
+  - Reduce startup risks
+  - Verify system readiness
+  - Establish performance baseline
+  - Improve operational reliability
+
+keywords:
+  - Commissioning
+  - Validation
+  - Startup
+  - Acceptance Testing
+```
+
+leak_detection:
+name: Leak Detection
+category: Maintenance Services
+description: >
+Detection, investigation, and documentation of coolant leaks within
+liquid cooled data center infrastructure.
+
+```
+capabilities:
+  - Leak inspections
+  - System diagnostics
+  - Root cause analysis
+  - Repair recommendations
+  - Post-repair verification
+
+benefits:
+  - Minimize downtime
+  - Protect critical equipment
+  - Improve infrastructure reliability
+
+keywords:
+  - Leak Detection
+  - Coolant Leak
+  - Inspection
+  - Diagnostics
+```
+
+testing_services:
+name: Testing Services
+category: Fluid Analysis
+description: >
+Scientific laboratory analysis and onsite testing to evaluate coolant
+condition, chemistry, contamination, and overall system health.
+
+```
+capabilities:
+  - pH testing
+  - Conductivity testing
+  - Glycol concentration
+  - Freeze point analysis
+  - Turbidity testing
+  - Corrosion inhibitor analysis
+  - Laboratory testing
+
+benefits:
+  - Identify degradation early
+  - Support predictive maintenance
+  - Extend coolant life
+  - Improve thermal performance
+
+keywords:
+  - Fluid Testing
+  - Laboratory Analysis
+  - Coolant Analysis
+  - ASTM Testing
+```
+
+maintenance_services:
+name: Maintenance Services
+category: Preventive Maintenance
+description: >
+Scheduled maintenance programs designed to maintain liquid cooling
+infrastructure at peak operational performance.
+
+```
+capabilities:
+  - Preventive maintenance
+  - System inspections
+  - Coolant replacement
+  - Filter replacement
+  - Fluid sampling
+  - Performance verification
+
+benefits:
+  - Reduce unplanned outages
+  - Extend equipment life
+  - Improve system efficiency
+  - Maintain operational continuity
+
+keywords:
+  - Preventive Maintenance
+  - Liquid Cooling Maintenance
+  - Data Center Maintenance
+```
+
+fluid_management_remediation:
+name: Fluid Management and Remediation
+category: Fluid Lifecycle
+description: >
+End-to-end coolant lifecycle management, including sampling, analysis,
+filtration, remediation, replacement, and disposal recommendations.
+
+```
+capabilities:
+  - Fluid sampling
+  - Filtration
+  - Coolant replacement
+  - Remediation planning
+  - Contamination response
+  - Lifecycle management
+
+benefits:
+  - Preserve coolant quality
+  - Reduce corrosion risks
+  - Improve cooling performance
+  - Extend system reliability
+
+keywords:
+  - Fluid Management
+  - Coolant Lifecycle
+  - Remediation
+  - Filtration
+```
+
+decommissioning:
+name: Decommissioning
+category: End of Life
+description: >
+Safe removal and retirement of liquid cooling infrastructure while
+protecting operational continuity and supporting environmental compliance.
+
+```
+capabilities:
+  - System shutdown
+  - Coolant removal
+  - Equipment removal
+  - Documentation
+  - Environmental handling
+
+benefits:
+  - Safe retirement
+  - Controlled execution
+  - Complete documentation
+
+keywords:
+  - Decommissioning
+  - Infrastructure Removal
+  - End of Life
+```
+
+end_of_life:
+name: End of Life Services
+category: Asset Lifecycle
+description: >
+Final lifecycle support for liquid cooling equipment and associated
+infrastructure, including documentation and responsible disposition.
+
+```
+capabilities:
+  - Asset documentation
+  - Equipment disposition
+  - Fluid disposal coordination
+  - Environmental compliance
+
+benefits:
+  - Regulatory compliance
+  - Sustainable disposition
+  - Complete project documentation
+
+keywords:
+  - Liquid Colling
+  - Thermal Management
+  - Coolant
+```
+
+metadata:
+primary_industry:
+- Liquid Cooling
+- Data Centers
+
+supported_facilities:
+- Enterprise
+- Hyperscale
+- Colocation
+- AI Infrastructure
+- HPC
+
+delivery:
+- Onsite Services
+- Nationwide Coverage
+- Preventive Programs
+- Emergency Response
+
+last_updated: 2026-06
+version: 1.0

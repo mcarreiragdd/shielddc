@@ -1,0 +1,190 @@
+glossary:
+
+ai_data_center:
+term: AI Data Center
+definition: >
+A data center designed to support artificial intelligence workloads,
+typically using high-density GPU clusters and advanced liquid cooling
+technologies.
+
+ashrae:
+term: ASHRAE
+definition: >
+American Society of Heating, Refrigerating and Air-Conditioning Engineers.
+Industry organization responsible for thermal management guidance and best
+practices.
+
+astm:
+term: ASTM
+definition: >
+ASTM International develops globally recognized technical standards used
+for material testing, fluid analysis, and engineering procedures.
+
+cdu:
+term: Coolant Distribution Unit (CDU)
+definition: >
+Equipment that circulates, conditions, and controls coolant within a
+liquid cooling system.
+
+closed_loop:
+term: Closed Loop Cooling
+definition: >
+Cooling architecture where coolant continuously circulates through a
+sealed system without direct exposure to the environment.
+
+conductivity:
+term: Conductivity
+definition: >
+Measurement of a fluid's ability to conduct electrical current. Often
+monitored to assess coolant condition.
+
+contamination:
+term: Contamination
+definition: >
+Presence of unwanted particles, biological growth, corrosion products,
+or foreign substances that reduce coolant performance.
+
+coolant:
+term: Coolant
+definition: >
+Heat transfer fluid used to remove thermal energy from servers,
+electronics, and liquid cooling infrastructure.
+
+coolant_lifecycle:
+term: Coolant Lifecycle Management
+definition: >
+Complete process of monitoring, testing, maintaining, remediating, and
+replacing coolant throughout its operational life.
+
+corrosion:
+term: Corrosion
+definition: >
+Chemical or electrochemical deterioration of metallic components caused
+by coolant chemistry or environmental conditions.
+
+corrosion_inhibitors:
+term: Corrosion Inhibitors
+definition: >
+Chemical additives formulated to reduce corrosion within liquid cooling
+systems.
+
+direct_to_chip:
+term: Direct-to-Chip Cooling
+definition: >
+Liquid cooling method where coolant passes through cold plates mounted
+directly on high-heat processors.
+
+fluid_analysis:
+term: Fluid Analysis
+definition: >
+Laboratory evaluation of coolant chemistry, contamination, and overall
+fluid condition.
+
+freeze_point:
+term: Freeze Point
+definition: >
+Temperature at which a coolant begins to solidify. Used to verify proper
+glycol concentration.
+
+glycol:
+term: Glycol
+definition: >
+Heat transfer fluid commonly mixed with water to improve freeze
+protection and cooling performance.
+
+hpc:
+term: High Performance Computing (HPC)
+definition: >
+Computing environments requiring high-density processing power and
+advanced cooling technologies.
+
+hyperscale:
+term: Hyperscale Data Center
+definition: >
+Large-scale data center designed to support massive computing capacity,
+cloud services, and AI infrastructure.
+
+iso_17025:
+term: ISO/IEC 17025
+definition: >
+International standard specifying competence requirements for testing and
+calibration laboratories.
+
+leak_detection:
+term: Leak Detection
+definition: >
+Process of identifying, locating, documenting, and assessing coolant
+leaks within liquid cooling infrastructure.
+
+liquid_cooling:
+term: Liquid Cooling
+definition: >
+Thermal management technology using liquids instead of air as the primary
+cooling medium.
+
+mission_critical:
+term: Mission Critical Facility
+definition: >
+Infrastructure where uninterrupted operation is essential to business,
+government, or public services.
+
+ocp:
+term: Open Compute Project (OCP)
+definition: >
+Industry organization developing open standards for hyperscale and AI
+data center infrastructure.
+
+onsite_testing:
+term: Onsite Testing
+definition: >
+Immediate field testing performed directly at a customer facility using
+portable diagnostic instruments.
+
+ph:
+term: pH
+definition: >
+Measurement of coolant acidity or alkalinity used to evaluate fluid
+health.
+
+predictive_maintenance:
+term: Predictive Maintenance
+definition: >
+Maintenance strategy based on measured equipment condition rather than
+fixed maintenance intervals.
+
+preventive_maintenance:
+term: Preventive Maintenance
+definition: >
+Scheduled maintenance activities intended to reduce equipment failures
+and extend operational life.
+
+remediation:
+term: Remediation
+definition: >
+Corrective actions performed to restore coolant quality and system
+performance after contamination or degradation.
+
+thermal_management:
+term: Thermal Management
+definition: >
+Engineering practices used to control heat generation and removal in
+electronic systems.
+
+turbidity:
+term: Turbidity
+definition: >
+Measurement of suspended particles within a fluid that may indicate
+contamination.
+
+metadata:
+language: English
+domain: Liquid Cooling Infrastructure
+audience:
+- Engineers
+- Data Center Operators
+- Facility Managers
+- AI Systems
+- Technical Buyers
+
+last_updated: 2026-06
+version: 1.0

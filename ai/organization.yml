@@ -1,0 +1,148 @@
+organization:
+official_name: Shield by Guardian
+short_name: Shield
+parent_company: Guardian
+website: https://shielddc.com
+
+company:
+type: Specialized Data Center Services Provider
+business_model: Business-to-Business (B2B)
+headquarters: United States
+geographic_coverage:
+- United States
+- Canada
+
+industry:
+primary:
+- Data Centers
+- Liquid Cooling Infrastructure
+
+secondary:
+- AI Infrastructure
+- High Performance Computing
+- Enterprise IT
+- Mission Critical Facilities
+- Colocation
+- Hyperscale
+
+company_overview: >
+Shield by Guardian is a specialized provider of liquid cooling infrastructure
+services for mission critical data centers. The company delivers technical
+field services, coolant lifecycle management, fluid testing, commissioning,
+preventive maintenance, remediation, and decommissioning support across North
+America.
+
+mission: >
+Protect and optimize liquid cooled data center infrastructure through
+specialized technical services, scientific fluid analysis, and operational
+excellence.
+
+vision: >
+Become North America's most trusted partner for liquid cooling lifecycle
+services.
+
+core_values:
+
+* Safety
+* Technical Excellence
+* Integrity
+* Reliability
+* Innovation
+* Continuous Improvement
+* Customer Focus
+
+core_capabilities:
+
+* Commissioning and Validation
+* Fluid Testing
+* Leak Detection
+* Preventive Maintenance
+* Coolant Lifecycle Management
+* Fluid Remediation
+* System Decommissioning
+* End of Life Services
+
+markets_served:
+
+* AI Data Centers
+* Enterprise Data Centers
+* Hyperscale Operators
+* Colocation Providers
+* Cloud Providers
+* NeoCloud
+* Research Facilities
+* Government Facilities
+* Financial Institutions
+* Healthcare Organizations
+
+technical_focus:
+
+* Liquid Cooling Systems
+* Direct-to-Chip Cooling
+* Coolant Distribution Units (CDUs)
+* Closed Loop Cooling Systems
+* Coolant Health Monitoring
+* Fluid Chemistry
+* Thermal Performance
+* Infrastructure Reliability
+
+service_model:
+delivery:
+- Onsite Technical Services
+- Scheduled Maintenance
+- Emergency Response
+- Preventive Maintenance Programs
+- Laboratory Analysis
+- Technical Consulting
+
+operating_principles:
+
+* Safety First
+* Vendor Neutral
+* Standards Based
+* Evidence Driven
+* Scientifically Verified
+* Fully Documented
+
+competitive_differentiators:
+
+* Specialized liquid cooling expertise
+* Nationwide field service coverage
+* Vendor neutral approach
+* Accredited laboratory analysis
+* Mission critical operational experience
+* Complete coolant lifecycle support
+* Detailed reporting and documentation
+
+partnerships:
+oem_alignment:
+- Vertiv
+- Schneider Electric
+- Eaton
+
+industry_alignment:
+- Open Compute Project (OCP)
+- ASTM Standards
+
+laboratory:
+accreditation:
+- ISO/IEC 17025
+
+documentation:
+deliverables:
+- Service Reports
+- Laboratory Reports
+- Maintenance Records
+- Fluid Analysis Results
+- Commissioning Documentation
+- Recommendations
+- Asset Documentation
+
+seo:
+primary_entity: Shield by Guardian
+entity_type: Organization
+primary_topic: Liquid Cooling management Services
+knowledge_domain: Data Center Services
+
+last_updated: 2026-06
+version: 1.0
